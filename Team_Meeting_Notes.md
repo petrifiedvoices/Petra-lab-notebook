@@ -97,19 +97,20 @@ _19.9.2019, Thursday, Skype_
 
 _24.9.2019, Tuesday, Adela's office - Skype_
 
-- Agenda circulated via shared doc in Google Drive, so everyone can get ready and the call is organised and has a flow
-1. We need to decide on our social media presence for research and on our branding:
-- Name
-- Icon
-- Logo
-- Colours
-- Twitter
-- ORCID
-- Google Scholar team
-- Research Gate
-- Academia
-2. We need to decide on web structure and populate it
+- Agenda circulated via shared doc in Google Drive, so everyone can get ready and the call is more organised
+Notes from the call: 
+1. explore the calendar in Outlook and sharing of calendar, to promote events at Uni level
+2. Hacky hours, Fridays 1pm, monthly, Luke Johnston; mostly R, but could be useful to other people, library
+3. Carpentries - follow slack and signup, Code Refineries as well, but different
+4. Faculty of Communications - Digital Literacy Group, Digital Brownbag
+5. 23 Oct, signup for teaching, programming historian, report back, do they know carpentries?
+6. 30 Oct, planning; get ready 10 min presentation about myself, project
+7. Check Cyberduck and CloudMounter to work with ScienceData.dk
 
+
+1. We need to decide on our social media presence for research and on our branding:
+- Name, Icon, Logo, Colours, Twitter, ORCID, Google Scholar team, Research Gate, Academia
+2. We need to decide on web structure and populate it
 
 
 
