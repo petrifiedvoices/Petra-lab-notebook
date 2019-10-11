@@ -93,11 +93,11 @@ _19.9.2019, Thursday, Skype_
 - no consensus on the calendar, nor the roadmap yet
 
 
-## Meeting no. 5 - online via Skype, Aarhus
+## Meeting no. 5 - online via Skype, Aarhus - Prague
 
 _24.9.2019, Tuesday, Adela's office - Skype_
 
-- Agenda circulated via shared doc in Google Drive, so everyone can get ready and the call is more organised
+- Agenda circulated via shared doc in Google Drive[agenda here](https://docs.google.com/document/d/1r37gv2yymBYn7X4xm3LY5_eb-5PBTVyNxYQCuamwGNo), so everyone can get ready and the call is more organised
 Notes from the call: 
 1. explore the calendar in Outlook and sharing of calendar, to promote events at Uni level
 2. Hacky hours, Fridays 1pm, monthly, Luke Johnston; mostly R, but could be useful to other people, library
@@ -113,11 +113,63 @@ Notes from the call:
 2. We need to decide on web structure and populate it
 
 
+## Meeting no. 6 - the nature of archaeological data
+_1.10. 2019, Tuesday, Adela's office_
 
-# Petra's notes and reflections of the first few weeks: 
+- [link to agenda](https://docs.google.com/document/d/14H6vAJi-2SQK1-xBAWls6Klkx75kTIHuvgGAu0z2uik)
+- writing a premeeting agenda is now a habit and a good practice, everyone gets a chance to prepare in advance, add their own stuff, link it to other materials or sites and then get back to it if necessary; not sure if we need to add actionables as part of the agenda, but so far everyone keeps their own tasks in mind. Maybe even talk management or some version of simplfied JIRA would be nice once we start actually doing a lot of stuff. I will look more into tickets on GitHub for my own purpose. Not so much if others are that keen on using Github.
+- I have finally migrated to Aarhus as of today, so finally I will have time to sit, plan, and think
+- for most of the meeting Adela was introducing the TRAP datasets to non-archeologists
+- we were discussing the workshop and some practicalities, program, guests etc.
+- workshop: I have decided to create a promo flyer in ConTeXt, so in order to do that I installed a server on my personal Linux computer and used some of old FAIMS templates and adjusted them to myself
 
+## Meeting no. 7 - workshop planning
+_3.10. 2019, Thursday, lunch room_
+
+- no agenda as the meeting was not planned
+- more input from the other members of the team on my flyer, adjusting, printing
+- final version on Friday, circulated online
+- we also decided to create a project Twitter, which I have done on Friday and shared the login credentials with everyone so they can edit or add stuff if anyone is interested
+- Our Twitter handle is @sdam-au and I am trying to promote the project around Aarhus, Denmark, and worldwide
+- I have also worked on the website and created a template for others to fill in with their personal informations and populate with photos. So far it is working quite well as people are comfortable with GitHub. We have also discussed the structure of the web and so far we will have: the index main page, the Team page, the social & calendar page, the Case Studies page and the Blog. Some of the pages are not visible yet, but that's because there is no content yet. As we grow, we will be able to add more stuff, more pages, etc. 
+- we also went to the Center for Humanities Computing Aarhus meeting at 1-3pm, held at the Interactive Minds centre and introduced ourselves
+- we need to follow up on the access to the Voyant server, as well as on website for our project
+
+## Meeting no. 8 - the infrastructure & other business
+_8.10. 2019, Tuesday, Adela's office_
+
+- [link to agenda](https://docs.google.com/document/d/1i64npFIXkGZezmsUM21ZIyTvnG6Xd4wF-ODsQtTi_TU/edit#heading=h.8wmdx636lwch)
+- a lot of events happening, debrief, planning
+- update on workshop planning: zoom, program, catering, participants etc.
+- website discussion continued, I have created a branding document for future use, Antonio will work on presentation template
+- issues of sharing our group calendars via university's outlook are more than suboptimal, I have requested at least SDAM-AU mailing list to be created, so we will see if that happens
+- future discussion on reserach diaries and notes, possibly Friday
+- SDAM should exist also in Pure, Adela is in charge of creating it
+- short demo on how the website works, minor tweaks
+- tracking the teaching and service via a web form
+
+## Meeting no. 9 - the teaching meeting
+_10.10. 2019, Thursday, Adela's office_
+
+- we were discussing the approaching six week intensive course in Digital Humanities Adela is teaching and we will be co-teaching
+- we have also discussed Vojtech's talk on the evolution of moralising gods in Greek texts that is supposed to be one of his case studies
+
+## Meeting no. 9 - the research diaries
+_11.10. 2019, Thursday, Adela's office_
+
+- we should somewhat consolidate the way we write our diaries and reflections, so it is later usable. SO far everyone uses a diferrent strategy, but I think once we have a template, everyone is more than happy to follow it. SOmeone needs to create that template, Antonio is working on somethin in LaTeX.
+- we should also circulate the program to the speakers
+
+
+
+
+# Petra's notes and reflections  
+
+## The first month
 1. Setting up infrastructure is crucial, but people don't really want to invest time in doing so and are mostly keen to start the research. I see great analogy in fieldwork researchers wanting to start the fieldwork while the FAIMS personnel kept annoying them with infrastructure and data modelling. I feel patience during meetings and good and bad examples of how it might end up are getting me somewhere. I have an internal block of some kind that does not allow me to think about the research itself until I have the infrastructure all set, tested, and running, but that might be beacuse I am controll freak and this is the part I am confident in and I know what to do. The research itself is fuzzy and I have no idea what I am going to do, so I am trying to procrastinate it with overorganising everything.
 2. All the recent activities associated with the unstable and precarious academic career drained all the energy I have left for research, so I am still trying to set up in the new country and I am not so keen to jump into research as other members of our team might be. I feel I need to pause for a bit, reflect, scope, study the field and then I am ready to say anything or even to make a call or judgement. If anything, I have learnt in the past 9 months when I was unemployed, that personal life should come always first before research if you want to do it longterm. That's why I am a little hesitant to jump into code and projects, before I know the new institution and how the field has changed in the time I was gone. Denmark seems to be a good place for me right now, but it is going to be difficult not to fall into the old traps again.
 3. I am slowly implementing the infrastructure that worked well in the past projects, but I have a feeling everyone does that. That's why I feel the mapping of the individual working styles and digital habits it great way how to monitor the changing dynamics within the team.
 
-
+## The second month
+1. I have finally managed to move physically to Aarhus, so the communication with the team is easier as they are mostly working offline, or try not to be too much on Slack or similar. We have a lot of meetings, but I think that's essential in the beginning of any project to set up our expectations, talk about the different ways we work and to, again, to setup the infrastructure. I am hoping as everything settles down, there would be one general meeting a week and then maybe some focused ones for specific projects. There is currently so much to cover that I feel two or three meetings a week are absolutely normal, especially with the upcoming workshop and the teaching.
+2.
