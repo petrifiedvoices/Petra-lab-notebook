@@ -5,7 +5,7 @@ Upon being not satisfied with DeicData.dk, I have tried testing the ScienceData.
 Here is the summary of my first observations.
 
 ## Positives
-- login into the web browser via institution is easy and works almsost all the time 
+- login into the web browser via institution is easy and works almost all the time 
 - 170 GB of online space that could be in theory used for sharing data, or my backup
 - tags and metadata seems to be quite useful, you can assign them to documents and create a new ones
 - photos - you can display them directly on the screen
