@@ -4,16 +4,16 @@ _Petra's reserach diary and notes_
 Upon being not satisfied with DeicData.dk, I have tried testing the ScienceData.dk in hope we could use this service for our research.
 Here is the summary of my first observations.
 
-I have focused my scoping to the usability of the sciencedata.dk from the perspective of a user-researcher collaborating with local and external people, sharing large datasets, and with the least time spent on sys-admin as possible. I have focused on doing the simple regression test with the following questions: 
+I have focused my scoping to the usability of the sciencedata.dk from the perspective of a user-researcher collaborating with local and external people, sharing large datasets, and with the least time spent on sys-admin as possible. I have done a simple regression test with the following questions in mind: 
 
 ```sh
 1. Can I do X? YES - NO. 
 2. If I can do X, does the long-term benefit of X exceeds the effort needed to do it? YES - NO. 
-3. Does X meet my expectations? YES - NO.
+3. Does the outcome of X meet my expectations? YES - NO.
 4. Is there a way to automate X to lower the friction? YES - NO.
 ```
 
-I have tested the following categories (X):
+I have tested specifically the following categories (X):
 
 **1. Data storage**
 a. Uploading large datasets (>100 GB)
@@ -38,9 +38,9 @@ a. Shared calendar
 b. Distribution list (one email going to all)
 c. Progress monitoring
 
+## Test outcomes
 
-
-## Positives
+### Positives
 - login into the web browser via institution is easy and works almost all the time 
 - 170 GB of online space that could be in theory used for sharing data, or my backup
 - tags and metadata seems to be quite useful, you can assign them to documents and create a new ones
@@ -48,7 +48,7 @@ c. Progress monitoring
 - groups - you can create your own groups
 
 
-## Negatives
+### Negatives
 - collaborative writing - limited, it enables only .txt and I am not sure if people can edit the document at the same time
 - versioning - you can see versions of your own documents that you have created, and either download that version or resrore back to it if you are sure
 - creating a document - via upload, or only in Home directory via the New dropdown, enables to create Text file or folder or import from link.
@@ -60,8 +60,8 @@ c. Progress monitoring
 - import - has to be setup properly, need to read the documentation but I hope there could be some automatization; you can import only into home not into shared groups
 - upload - tried to upload several GB, failed, manual, you can upload only text files, PDFs, no images; can't do anything else while uploading, so in the case of large files it can take hour or more
 
-## Petra's opinion:
+## Petra's commentary:
 Sciencedata.dk can be used for storing and sharing large files such as satellite images, granted we manage to upload them, but I do not recommend it for day-to-day activities of the team. The Sciencedata.dk is especially not suitable for collaborative writing, small data sharing within a closed group, version control of documents. 
 
-I recommend to purchase a Google Suite, where all the initial hurdles are already solved to save several weeks, maybe months of tweaking the Sciencedata.dk as there is no apparent support at the Aarhus University and we would be doing it all ourselves.
+I recommend to purchase a Google Suite, where all the initial hurdles are already solved to save several weeks, maybe months of tweaking the Sciencedata.dk as there is no apparent support at the Aarhus University and we would be doing it all ourselves. The efforts and the time spent on sys-admin of using only on sciencedata.dk would bring more frustration to the team (or at least to the people doing the sys-admin) rather than actual benefits. **Sciencedata.dk can be used as back-up storage of our datasets, given we have them in a safe location somewhere else. It cannot be used as a main collaborative space of the team.**
 
