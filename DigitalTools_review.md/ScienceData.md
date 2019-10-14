@@ -7,10 +7,10 @@ Here is the summary of my first observations.
 I have focused my scoping to the usability of the sciencedata.dk from the perspective of a user-researcher collaborating with local and external people, sharing large datasets, and with the least time spent on sys-admin as possible. I have focused on doing the simple regression test with the following questions: 
 
 ```sh
-Can I do X? YES - NO. 
-If I can do X, does the long-term benefit of X exceeds the effort needed to do it? YES - NO. 
-Does X meet my expectations? YES - NO.
-Is there a way to automate X to lower the friction? YES - NO.
+1. Can I do X? YES - NO. 
+2. If I can do X, does the long-term benefit of X exceeds the effort needed to do it? YES - NO. 
+3. Does X meet my expectations? YES - NO.
+4. Is there a way to automate X to lower the friction? YES - NO.
 ```
 
 I have tested the following categories (X):
@@ -64,7 +64,4 @@ c. Progress monitoring
 Sciencedata.dk can be used for storing and sharing large files such as satellite images, granted we manage to upload them, but I do not recommend it for day-to-day activities of the team. The Sciencedata.dk is especially not suitable for collaborative writing, small data sharing within a closed group, version control of documents. 
 
 I recommend to purchase a Google Suite, where all the initial hurdles are already solved to save several weeks, maybe months of tweaking the Sciencedata.dk as there is no apparent support at the Aarhus University and we would be doing it all ourselves.
-<<<<<<< HEAD
 
-=======
->>>>>>> cdb720b8772e1ee58df1104c4e61d79cbc5d8885
