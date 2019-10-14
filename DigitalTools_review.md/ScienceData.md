@@ -4,7 +4,8 @@ _Petra's reserach diary and notes_
 Upon being not satisfied with DeicData.dk, I have tried testing the ScienceData.dk in hope we could use this service for our research.
 Here is the summary of my first observations.
 
-I have focused my scoping to the usability of the sciencedata.dk from the perspective of a user-researcher collaborating with local and external people, sharing large datasets, and with the least time spent on sys-admin as possible. I have done a simple regression test with the following questions in mind: 
+I have focused my scoping to the usability of the sciencedata.dk from the perspective of a user-researcher collaborating with local and external people, sharing large datasets, and with the least time spent on sys-admin as possible. 
+I have done a simple regression test with the following questions in mind: 
 
 ```sh
 1. Can I do X? YES - NO. 
@@ -16,27 +17,27 @@ I have focused my scoping to the usability of the sciencedata.dk from the perspe
 I have tested specifically the following categories (X):
 
 **1. Data storage**
-a. Uploading large datasets (>100 GB)
-b. Storing large datasets
-c. Sharing large datasets within the team
-d. Sharing large datasets with external collaborators (AU, Europe, world)
-e. Ease of use and data manipulation (moving, renaming, setting sharing permissions to different groups)
-f. Export and available formats
-g. Back-up solution
+- Uploading large datasets (>100 GB)
+- Storing large datasets
+- Sharing large datasets within the team
+- Sharing large datasets with external collaborators (AU, Europe, world)
+- Ease of use and data manipulation (moving, renaming, setting sharing permissions to different groups)
+- Export and available formats
+- Back-up solution
 **2. Good practice or FAIR principles**
-a. Open science principles
-b. Version control
-c. Metadata preservation
-d. Assigning new metadata/labels
-e. Association with research publishing platforms
-f. Where does the data live - do I have a control
+- Open science principles
+- Version control
+- Metadata preservation
+- Assigning new metadata/labels
+- Association with research publishing platforms
+- Where does the data live - do I have a control
 **3. Team collaboration**
-a. Collaborative writing
-b. Code sharing
+- Collaborative writing
+- Code sharing
 **4. Team management**
-a. Shared calendar
-b. Distribution list (one email going to all)
-c. Progress monitoring
+- Shared calendar
+- Distribution list (one email going to all)
+- Progress monitoring
 
 ## Test outcomes
 
