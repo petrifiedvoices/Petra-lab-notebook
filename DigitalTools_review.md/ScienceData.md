@@ -64,4 +64,7 @@ c. Progress monitoring
 Sciencedata.dk can be used for storing and sharing large files such as satellite images, granted we manage to upload them, but I do not recommend it for day-to-day activities of the team. The Sciencedata.dk is especially not suitable for collaborative writing, small data sharing within a closed group, version control of documents. 
 
 I recommend to purchase a Google Suite, where all the initial hurdles are already solved to save several weeks, maybe months of tweaking the Sciencedata.dk as there is no apparent support at the Aarhus University and we would be doing it all ourselves.
+<<<<<<< HEAD
 
+=======
+>>>>>>> cdb720b8772e1ee58df1104c4e61d79cbc5d8885
