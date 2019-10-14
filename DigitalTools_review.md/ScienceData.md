@@ -24,6 +24,7 @@ I have tested specifically the following categories (X):
 - Ease of use and data manipulation (moving, renaming, setting sharing permissions to different groups)
 - Export and available formats
 - Back-up solution
+
 **2. Good practice or FAIR principles**
 - Open science principles
 - Version control
@@ -31,9 +32,11 @@ I have tested specifically the following categories (X):
 - Assigning new metadata/labels
 - Association with research publishing platforms
 - Where does the data live - do I have a control
+
 **3. Team collaboration**
 - Collaborative writing
 - Code sharing
+
 **4. Team management**
 - Shared calendar
 - Distribution list (one email going to all)
