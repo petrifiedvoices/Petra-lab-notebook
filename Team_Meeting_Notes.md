@@ -160,16 +160,16 @@ _11.10. 2019, Thursday, Adela's office_
 - we should somewhat consolidate the way we write our diaries and reflections, so it is later usable. SO far everyone uses a diferrent strategy, but I think once we have a template, everyone is more than happy to follow it. SOmeone needs to create that template, Antonio is working on somethin in LaTeX.
 - we should also circulate the program to the speakers
 
+## Meeting no. 10 
+_15.10. 2019, Tuesday, Adela's office_
 
+- workshop organisation, UATs, teaching digital methods
 
+## Meeting no. 11
+_05.11. 2019, Tuesday, 1461-516_
 
-# Petra's notes and reflections  
+- post workshop debrief, software carpentry debate, admin talk, epigraphic data talk, UATs and more infrastructure planning
 
-## The first month
-1. Setting up infrastructure is crucial, but people don't really want to invest time in doing so and are mostly keen to start the research. I see great analogy in fieldwork researchers wanting to start the fieldwork while the FAIMS personnel kept annoying them with infrastructure and data modelling. I feel patience during meetings and good and bad examples of how it might end up are getting me somewhere. I have an internal block of some kind that does not allow me to think about the research itself until I have the infrastructure all set, tested, and running, but that might be beacuse I am controll freak and this is the part I am confident in and I know what to do. The research itself is fuzzy and I have no idea what I am going to do, so I am trying to procrastinate it with overorganising everything.
-2. All the recent activities associated with the unstable and precarious academic career drained all the energy I have left for research, so I am still trying to set up in the new country and I am not so keen to jump into research as other members of our team might be. I feel I need to pause for a bit, reflect, scope, study the field and then I am ready to say anything or even to make a call or judgement. If anything, I have learnt in the past 9 months when I was unemployed, that personal life should come always first before research if you want to do it longterm. That's why I am a little hesitant to jump into code and projects, before I know the new institution and how the field has changed in the time I was gone. Denmark seems to be a good place for me right now, but it is going to be difficult not to fall into the old traps again.
-3. I am slowly implementing the infrastructure that worked well in the past projects, but I have a feeling everyone does that. That's why I feel the mapping of the individual working styles and digital habits it great way how to monitor the changing dynamics within the team.
+## Meeting no. 12 - Epigraphic datasets
+_08.11. 2019, Friday, 1461-516_
 
-## The second month
-1. I have finally managed to move physically to Aarhus, so the communication with the team is easier as they are mostly working offline, or try not to be too much on Slack or similar. We have a lot of meetings, but I think that's essential in the beginning of any project to set up our expectations, talk about the different ways we work and to, again, to setup the infrastructure. I am hoping as everything settles down, there would be one general meeting a week and then maybe some focused ones for specific projects. There is currently so much to cover that I feel two or three meetings a week are absolutely normal, especially with the upcoming workshop and the teaching.
-2.
